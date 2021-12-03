@@ -1,8 +1,6 @@
-package chapter5Review;
-
 import java.util.Scanner;
 
-public class discriminate {
+public class discriminant {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 
